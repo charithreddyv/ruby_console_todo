@@ -3,5 +3,7 @@
 A simple todo app with ruby
 
 gems required: 
-sqlite3
-colorize
+sqlite3,
+colorize(optional)
+
+
